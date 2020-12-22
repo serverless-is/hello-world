@@ -1,0 +1,10 @@
+{
+    "name": "hello-world",
+    "description": "hello world lambda function",
+    "version": "0.0.1",
+    "dependencies": {},
+    "devDependencies": {
+        "serverless": "~2.16.0",
+        "serverless-offline": "~6.8.0"
+    }
+}
